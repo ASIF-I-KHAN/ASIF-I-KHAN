@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ASIF-I-KHAN
 - 👀 I’m interested in new and extraordinary tech and tech ideas.
-- 🌱 I’m currently learning Data Science and engineering.
+- 🌱 I’m currently learning Data Science and Machine Learning.
 - 💞️ I’m looking to collaborate on Data Science, Machine learning and other opensource projects.
 - 📫 You can reach me at asifkhan.9781@gmail.com
 
