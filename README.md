@@ -2,7 +2,7 @@
 - 👀 I’m interested in new and extraordinary tech and tech ideas.
 - 🌱 I’m currently learning Data Science and Machine Learning.
 - 💞️ I’m looking to collaborate on Data Science, Machine learning and other opensource projects.
-- 📫 You can reach me at asifkhan.9781@gmail.com
+- 📫 You can reach me at asifkhan.9781@gmail.com and [linkedin] (https://www.linkedin.com/in/asif-i-khan/)
 
 <!---
 ASIF-I-KHAN/ASIF-I-KHAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
